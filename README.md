@@ -1,7 +1,7 @@
-## geoNN
+# geoNN
 Geolocation Prediction of Twitter users with Deep Learning models, based solely on user's posts (text)
 
-# Requirements
+## Requirements
 - keras
 - theano
 - scipy
